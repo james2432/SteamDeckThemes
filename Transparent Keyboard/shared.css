@@ -39,7 +39,7 @@
     --btn-transparent-5-4: rgba(78, 77, 72, calc(1 - (var(--button-transparency)/10)));
 }
 
-.DefaultTheme {
+.DefaultTheme.DefaultTheme {
     --background-color: rgba(35, 38, 46, calc(1 - (var(--background-transparency)/10)));
     --key-pointer-background-color: rgba(26, 159, 255, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-0-3);
@@ -65,11 +65,11 @@
     --key-deadkey-background-color: var(--btn-transparent-0-0);
 }
 
-.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.DefaultTheme.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-0-2);
 }
 
-.SteamGreen {
+.SteamGreen.SteamGreen {
     --background-color: rgba(62, 70, 55, calc(1 - (var(--background-transparency)/10)));
     --key-pointer-background-color: rgba(196, 181, 80, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-1-3);
@@ -95,11 +95,11 @@
     --key-deadkey-background-color: var(--btn-transparent-1-0);
 }
 
-.SteamGreen .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.SteamGreen.SteamGreen .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-1-2);
 }
 
-.Digital {
+.Digital.Digital {
     --background-color: rgba(1, 15, 2, calc(1 - (var(--background-transparency)/10)));
     --key-pointer-background-color: rgba(25, 224, 21, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-2-3);
@@ -125,11 +125,11 @@
     --key-deadkey-background-color: var(--btn-transparent-2-0);
 }
 
-.Digital .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.Digital.Digital .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-2-2);
 }
 
-.NightShift {
+.NightShift.NightShift {
     --background-color: linear-gradient(43deg, rgba(2, 6, 9, calc(1 - (var(--background-transparency)/10))) 0%, rgba(10, 55, 69, calc(1 - (var(--background-transparency)/10))) 46%, rgba(3, 21, 25, calc(1 - (var(--background-transparency)/10))) 100%);
     --key-pointer-background-color: rgba(241, 50, 146, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-3-3);
@@ -155,11 +155,11 @@
     --key-deadkey-background-color: var(--btn-transparent-3-0);
 }
 
-.NightShift .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.NightShift.NightShift .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-3-2);
 }
 
-.Candy {
+.Candy.Candy {
     --background-color: linear-gradient(45deg, rgba(255, 255, 255, calc(1 - (var(--background-transparency)/10))) 0%, rgba(202, 202, 202, calc(1 - (var(--background-transparency)/10))) 100%);
     --key-pointer-background-color: rgba(139, 146, 154, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-4-3);
@@ -185,11 +185,11 @@
     --key-deadkey-background-color: var(--btn-transparent-4-0);
 }
 
-.Candy .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.Candy.Candy .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-4-2);
 }
 
-.DEX {
+.DEX.DEX {
     --background-color: linear-gradient(55deg, rgba(48, 67, 72, calc(1 - (var(--background-transparency)/10))), rgba(43, 54, 57, calc(1 - (var(--background-transparency)/10))));
     --key-pointer-background-color: rgba(165, 159, 147, calc(1 - (var(--pointer-transparency)/10)));
     --key-background-color: var(--btn-transparent-5-3);
@@ -215,6 +215,6 @@
     --key-deadkey-background-color: var(--btn-transparent-5-0);
 }
 
-.DEX .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
+.DEX.DEX .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Touched_3UFQq {
     background-color: var(--btn-transparent-5-2);
 }
